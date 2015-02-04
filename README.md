@@ -1,2 +1,2 @@
 # phonecat
-Official angular js tutorial app
+Official angular js tutorial app.
